@@ -1,5 +1,5 @@
-# 💫 Hey, I'm Sripramod Yogarajan
-<br>🧑‍💻 CSE undergrad @ Anna University  <br>🚀 Exploring DevOps, building AI/ML projects  <br>💻 Writing most of my logic in C++  <br>📦 Always shipping, always learning  
+# 💫 About me: 
+<br>Hey I'm Sripramod Yogarajan <br>🧑‍💻 CSE undergrad @ Anna University  <br>🚀 Exploring DevOps, building AI/ML projects  <br>💻 Writing most of my logic in C++  <br>📦 Always shipping, always learning  
 
 
 ## 🌐 Socials:
