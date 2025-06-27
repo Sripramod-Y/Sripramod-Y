@@ -72,7 +72,7 @@
 
 ---
 
-### 🕹️ Contributions Visualized as a Game
+### 🕹️ Contributions
 
 <p align="center">
   <picture>
