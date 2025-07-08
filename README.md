@@ -34,11 +34,6 @@
 
 ---
 
-### 📚 Top Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sripramod-Y&layout=compact&theme=transparent"/>
-</p>
 
 ---
 
@@ -62,20 +57,6 @@
 
 ---
 
-### 📌 Pinned Projects
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sripramod-y&repo=Time-Travel-Debugger&theme=transparent" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sripramod-y&repo=Blood-Stock-Management&theme=transparent" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 ---
 
 ### 🕹️ Contributions
@@ -91,7 +72,7 @@
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/sripramod)
+- 🔗 [LinkedIn](https://linkedin.com/in/sripramod)
 - 📧 ysripramod@gmail.com
 
 ---
